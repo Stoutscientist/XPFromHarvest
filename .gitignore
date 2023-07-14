@@ -1,5 +1,7 @@
 .gradle
+.settings
 **/build/
+**/run/
 !src/**/build/
 
 # Ignore Gradle GUI config
@@ -10,6 +12,8 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+.project
+.launch
 
 # Eclipse Gradle plugin generated files
 # Eclipse Core
