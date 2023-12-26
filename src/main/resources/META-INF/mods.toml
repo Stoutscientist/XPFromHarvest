@@ -5,12 +5,12 @@ issueTrackerURL = "https://github.com/Stoutscientist/XPFromHarvest/issues"
 [[mods]]
 modId = "xpfromharvest"
 version = "1.2.3"
-displayName = "XP From Harvest (Stoutscientist's Fork)"
-displayURL = "https://minecraft.curseforge.com/projects/xp-from-harvest-forked"
+displayName = "XP From Harvest Reworked"
+displayURL = "https://minecraft.curseforge.com/projects/xp-from-harvest-reworked"
 logoFile="logo.png"
-authors = "RealGecko, Stoutscientist, UplinkPhobia (Original 1.19.2 update)"
+authors = "RealGecko, Stoutscientist, UplinkPhobia"
 description = '''
-Literally harvest XP
+Get XP from harevsting crops!
 '''
 [[dependencies.xpfromharvest]]
 modId = "forge"
