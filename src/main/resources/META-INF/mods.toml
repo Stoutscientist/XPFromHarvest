@@ -2,25 +2,22 @@ modLoader = "javafml"
 loaderVersion = "[47,)"
 license = "GNU LGPLv3"
 issueTrackerURL = "https://github.com/Stoutscientist/XPFromHarvest/issues"
-
 [[mods]]
 modId = "xpfromharvest"
 version = "1.2.3"
-displayName = "XP From Harvest Reworked"
+displayName = "XP From Harvest (Stoutscientist's Fork)"
 displayURL = "https://minecraft.curseforge.com/projects/xp-from-harvest-forked"
 logoFile="logo.png"
-authors = "RealGecko, Stoutscientist, UplinkPhobia"
+authors = "RealGecko, Stoutscientist, UplinkPhobia (Original 1.19.2 update)"
 description = '''
 Literally harvest XP
 '''
-
 [[dependencies.xpfromharvest]]
 modId = "forge"
 mandatory = true
 versionRange = "[47,)"
 ordering = "NONE"
 side = "BOTH"
-
 [[dependencies.xpfromharvest]]
 modId = "minecraft"
 mandatory = true
