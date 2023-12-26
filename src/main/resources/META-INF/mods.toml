@@ -11,7 +11,7 @@ displayURL = "https://minecraft.curseforge.com/projects/xp-from-harvest-forked"
 logoFile="logo.png"
 authors = "RealGecko, Stoutscientist, UplinkPhobia"
 description = '''
-Get XP from harvesting crops!
+Literally harvest XP
 '''
 
 [[dependencies.xpfromharvest]]
