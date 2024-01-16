@@ -1,5 +1,5 @@
 modLoader = "javafml"
-loaderVersion = "[47,)"
+loaderVersion = "[43,)"
 license = "GNU LGPLv3"
 issueTrackerURL = "https://github.com/Stoutscientist/XPFromHarvest/issues"
 [[mods]]
@@ -15,12 +15,12 @@ Get XP from harevsting crops!
 [[dependencies.xpfromharvest]]
 modId = "forge"
 mandatory = true
-versionRange = "[47,)"
+versionRange = "[43,)"
 ordering = "NONE"
 side = "BOTH"
 [[dependencies.xpfromharvest]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.20,1.21,)"
+versionRange = "[1.19.2,1.20,)"
 ordering = "NONE"
 side = "BOTH"
