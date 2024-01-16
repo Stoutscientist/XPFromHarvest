@@ -4,9 +4,9 @@ license = "GNU LGPLv3"
 issueTrackerURL = "https://github.com/Stoutscientist/XPFromHarvest/issues"
 [[mods]]
 modId = "xpfromharvest"
-version = "1.2.3"
+version = "1.2.4"
 displayName = "XP From Harvest Reworked"
-displayURL = "https://minecraft.curseforge.com/projects/xp-from-harvest-reworked"
+displayURL = "https://modrinth.com/mod/xp-from-harvest-reworked"
 logoFile="logo.png"
 authors = "RealGecko, Stoutscientist, UplinkPhobia"
 description = '''
@@ -21,6 +21,6 @@ side = "BOTH"
 [[dependencies.xpfromharvest]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.20,1.20.1,)"
+versionRange = "[1.20,1.21,)"
 ordering = "NONE"
 side = "BOTH"
